@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil078&label=Profile%20views&color=0e75b6&style=flat" alt="sahil078" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK , DSA**
+- 🌱 I’m currently learning **MERN STACK ,C++ , DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahil078?tab=repositories](https://github.com/sahil078?tab=repositories)
 
