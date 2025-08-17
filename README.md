@@ -17,25 +17,57 @@
 
 ## 🎯 About Me
 
-Hey there! I'm **Md Sahil**, a passionate Full-Stack Developer based in New Delhi, India. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or solving coding challenges on LeetCode.
+<div align="center">
+  
+  > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
 
-**What drives me:**
-- �� Building scalable, user-centric applications
-- �� Solving real-world problems with innovative tech solutions
-- �� Creating beautiful, responsive user interfaces
-- 📱 Developing cross-platform mobile applications
-- 🔒 Implementing secure and robust backend systems
+Hey there, fellow developers! 👋 I'm **Md Sahil**, a passionate Full-Stack Developer who believes in the power of clean code and beautiful user experiences. Based in the vibrant city of New Delhi, I'm on a mission to transform complex problems into elegant, scalable solutions.
+
+### 🌟 **What Makes Me Different:**
+
+- **🎨 Design-First Approach**: I don't just code; I craft experiences that users fall in love with
+- **🚀 Performance Obsessed**: Every millisecond counts, and I optimize for speed
+- **�� Security Minded**: Building robust systems that protect user data
+- **📱 Mobile Native**: Specializing in cross-platform mobile development
+- **🌐 Full-Stack Vision**: From pixel-perfect UIs to bulletproof backends
+
+### 💭 **My Philosophy:**
+> *"The best code is the code that never needs to be written twice."*
+
+I believe in writing maintainable, scalable code that not only works today but evolves gracefully with tomorrow's requirements. Every project is an opportunity to learn, innovate, and push the boundaries of what's possible.
+
+### 🎯 **What Drives Me:**
+- **Innovation**: Exploring cutting-edge technologies and pushing boundaries
+- **User Experience**: Creating interfaces that users actually enjoy using
+- **Performance**: Building applications that are lightning-fast and responsive
+- **Learning**: Constantly evolving and adapting to new technologies
+- **Impact**: Building solutions that make a real difference in people's lives
 
 ---
 
 ## 🛠️ Tech Stack
 
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+
+### **State Management & Animation**
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,13 +79,21 @@ Hey there! I'm **Md Sahil**, a passionate Full-Stack Developer based in New Delh
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### **Tools & Platforms**
+### **Developer Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=v0&logoColor=white)
+
+### **APIs & Integrations**
+![WATI.io API](https://img.shields.io/badge/WATI.io_API-00C7B7?style=for-the-badge&logo=api&logoColor=white)
+![Meta Graph API](https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-FF6B6B?style=for-the-badge&logo=webhook&logoColor=white)
 
 ---
 
@@ -131,6 +171,37 @@ Hey there! I'm **Md Sahil**, a passionate Full-Stack Developer based in New Delh
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Computer Applications** | **Jamia Hamdard University**
+- **CGPA**: 7.8/10
+- **Duration**: Oct 2021 - Jul 2024
+- **Location**: New Delhi, India
+
+---
+
+## �� What I'm Currently Learning
+
+### **🔥 React Native & Expo Mastery**
+- **Advanced Navigation**: Deep diving into complex navigation patterns
+- **Performance Optimization**: Learning techniques to build lightning-fast mobile apps
+- **Native Modules**: Exploring custom native functionality integration
+- **Expo SDK**: Mastering the latest Expo features and capabilities
+
+### **🤖 AI/ML Exploration**
+- **Machine Learning Basics**: Understanding core ML concepts and algorithms
+- **AI Integration**: Learning to integrate AI services into web and mobile apps
+- **Natural Language Processing**: Exploring text analysis and language understanding
+- **Computer Vision**: Basic image recognition and processing concepts
+
+### **🐳 Docker & Kubernetes**
+- **Containerization**: Learning Docker fundamentals and best practices
+- **Microservices**: Understanding container orchestration and deployment
+- **DevOps Practices**: CI/CD pipelines and automated deployment
+- **Cloud Native**: Building scalable, cloud-native applications
+
+---
+
 ## �� GitHub Stats
 
 <div align="center">
@@ -141,32 +212,6 @@ Hey there! I'm **Md Sahil**, a passionate Full-Stack Developer based in New Delh
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil078&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications** | **Jamia Hamdard University**
-- **CGPA**: 7.8/10
-- **Duration**: Oct 2021 - Jul 2024
-- **Location**: New Delhi, India
-
----
-
-## �� Certificates
-
-- **Web Development** - Comprehensive web development skills
-- **Data Structures in C** - Advanced programming concepts
-- **Database Management System** - Database design & optimization
-
----
-
-## �� What I'm Currently Working On
-
-- 🔥 **Recipe App Backend**: Optimizing PostgreSQL queries and API performance
-- 🚀 **New Mobile App**: Exploring Flutter for cross-platform development
-- 💡 **Open Source**: Contributing to React Native community projects
-- 📚 **Learning**: Advanced TypeScript patterns and system design
 
 ---
 
@@ -188,6 +233,6 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   
   ### ⭐ **Star this repository if you found it helpful!**
   
-  *Thanks for visiting my profile! Happy coding! 🚀*
+  *Thanks for visiting my profile! Happy coding! ��*
   
 </div>
