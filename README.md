@@ -14,13 +14,10 @@
 </div>
 
 ---
-
 ## 🎯 About Me
 
 <div align="center">
-  
   > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
 </div>
 
 Hey there, fellow developers! 👋 I'm **Md Sahil**, a passionate Full-Stack Developer who believes in the power of clean code and beautiful user experiences. Based in the vibrant city of New Delhi, I'm on a mission to transform complex problems into elegant, scalable solutions.
@@ -63,11 +60,6 @@ I believe in writing maintainable, scalable code that not only works today but e
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
-
-### **State Management & Animation**
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -123,7 +115,7 @@ I believe in writing maintainable, scalable code that not only works today but e
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 - **White-label platform** enabling local stores to offer quick delivery
 - **Kirana owner dashboards** with stock management & analytics
@@ -136,7 +128,6 @@ I believe in writing maintainable, scalable code that not only works today but e
 
 ### **3. AI Mock Interview System** 🤖
 *AI-Driven Interview Practice Platform*
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
@@ -155,7 +146,6 @@ I believe in writing maintainable, scalable code that not only works today but e
 
 ### **Software Engineer Intern** @ Healthiclick
 *Apr 2025 - Present | New Delhi*
-
 - **Frontend Development**: Leading Healthiclick web app using Next.js, TypeScript, Zustand, and TailwindCSS
 - **Marketing Dashboard**: Complete dashboard with real-time analytics and Meta Lead Ads API integration
 - **Real-time Chat**: Custom Express.js APIs for WATI webhook events and Firebase integration
@@ -163,7 +153,6 @@ I believe in writing maintainable, scalable code that not only works today but e
 
 ### **Frontend Developer Intern** @ Rentickle
 *Nov 2024 - Mar 2025 | Gurgaon, India*
-
 - **KYC System**: Developed secure verification system ensuring regulatory compliance
 - **Performance**: Achieved **60-70% performance boost** through code optimization
 - **UI Refactoring**: Pixel-perfect responsive interface with Figma designs
@@ -171,28 +160,12 @@ I believe in writing maintainable, scalable code that not only works today but e
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Applications** | **Jamia Hamdard University**
-- **CGPA**: 7.8/10
-- **Duration**: Oct 2021 - Jul 2024
-- **Location**: New Delhi, India
-
----
-
 ## �� What I'm Currently Learning
-
 ### **🔥 React Native & Expo Mastery**
 - **Advanced Navigation**: Deep diving into complex navigation patterns
 - **Performance Optimization**: Learning techniques to build lightning-fast mobile apps
 - **Native Modules**: Exploring custom native functionality integration
 - **Expo SDK**: Mastering the latest Expo features and capabilities
-
-### **🤖 AI/ML Exploration**
-- **Machine Learning Basics**: Understanding core ML concepts and algorithms
-- **AI Integration**: Learning to integrate AI services into web and mobile apps
-- **Natural Language Processing**: Exploring text analysis and language understanding
-- **Computer Vision**: Basic image recognition and processing concepts
 
 ### **🐳 Docker & Kubernetes**
 - **Containerization**: Learning Docker fundamentals and best practices
@@ -201,7 +174,6 @@ I believe in writing maintainable, scalable code that not only works today but e
 - **Cloud Native**: Building scalable, cloud-native applications
 
 ---
-
 ## �� GitHub Stats
 
 <div align="center">
@@ -209,12 +181,7 @@ I believe in writing maintainable, scalable code that not only works today but e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil078&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil078&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ---
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!
@@ -228,11 +195,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 </div>
 
 ---
-
 <div align="center">
-  
   ### ⭐ **Star this repository if you found it helpful!**
-  
   *Thanks for visiting my profile! Happy coding! ��*
-  
 </div>
