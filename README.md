@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" alt="Cover Image" width="100%" height="300" style="object-fit: cover; border-radius: 15px; margin-bottom: 20px;">
-  
   # 👨‍💻 Md Sahil
   
   ### Full-Stack Developer & Mobile App Enthusiast
